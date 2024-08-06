@@ -1,0 +1,91 @@
+#drawing {
+    float: left;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    /* -ms-transform: translateX(-50%);
+    transform: translateX(-50%); */
+    background-color: #121417;
+}
+
+body {
+    height: 100vh;
+    width: 1000px;
+    position: relative;
+    /* left: 50%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%); */
+    margin: auto;
+    margin-left: 10vw;
+    /* border: #fff563 2px solid; */
+}
+
+.menu {
+    width: 350px;
+    float: right;
+    margin: auto;
+    position: relative;
+    top: 42.5%;
+    margin-right: 50px;
+    margin-left: 0;
+    border: #fff563 2px solid;
+    border-radius: 10px;
+    box-shadow: 10px 10px 15px black;
+}
+
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 300px;
+    height: 8px;
+    margin: 0;
+    margin-left: 25px;
+    color: #222b38;
+    background-color: #222b38;
+    border-radius: 5px;
+    accent-color: #fff563;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%; 
+    background: #fff563;
+    cursor: pointer;
+  }
+
+.slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    background: #fff563;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+}
+
+.slider::-moz-range-progress {
+    height: 8px;
+    border-radius: 3.5px;
+    border: none;
+    margin: auto;
+    background-color: #fff563;
+}
+
+p {
+    color: white;
+    font-family: 'Fira Code';
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Fira Code'; /*a name to be used later*/
+    src: url('./FiraCode-VariableFont_wght.ttf'); /*URL to font*/
+}
+
+html {
+    background-color: #121417;
+}

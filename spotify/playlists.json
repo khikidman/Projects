@@ -1,0 +1,450 @@
+{
+    "href": "https://api.spotify.com/v1/users/khi.kidman/playlists?offset=0&limit=100",
+    "limit": 100,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 10,
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6YktpGP2OZT0JZtUnM0Cx3"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6YktpGP2OZT0JZtUnM0Cx3",
+            "id": "6YktpGP2OZT0JZtUnM0Cx3",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://i.scdn.co/image/ab67616d00001e0243fd9d2da3b26df82b9e0fe7",
+                    "width": null
+                }
+            ],
+            "name": "Toxic",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAABG2tW3z2B1S6WRN99v96OC6c4l5t",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6YktpGP2OZT0JZtUnM0Cx3/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6YktpGP2OZT0JZtUnM0Cx3"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0pF1cCxo1ybeda70JyqFJ9"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0pF1cCxo1ybeda70JyqFJ9",
+            "id": "0pF1cCxo1ybeda70JyqFJ9",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020cc6c8a864d2d16a2bc507d4ab67616d00001e021f6a2a40bb692936879db730ab67616d00001e02601eb33454f13f26db9084e4ab67616d00001e02e1530b42603367fdb2208d88",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020cc6c8a864d2d16a2bc507d4ab67616d00001e021f6a2a40bb692936879db730ab67616d00001e02601eb33454f13f26db9084e4ab67616d00001e02e1530b42603367fdb2208d88",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020cc6c8a864d2d16a2bc507d4ab67616d00001e021f6a2a40bb692936879db730ab67616d00001e02601eb33454f13f26db9084e4ab67616d00001e02e1530b42603367fdb2208d88",
+                    "width": 60
+                }
+            ],
+            "name": "Auditory High",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAALKQxKuQz7R3oOGl3RknBfdRE8Yx5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0pF1cCxo1ybeda70JyqFJ9/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0pF1cCxo1ybeda70JyqFJ9"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4ugaZ1aThniWD9e9XKMusl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4ugaZ1aThniWD9e9XKMusl",
+            "id": "4ugaZ1aThniWD9e9XKMusl",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02427c80da235cb76fc89b8e27ab67616d00001e026161c2f7f66cb9b9f99bc0e3ab67616d00001e026e415c25972cc9c91dd1034cab67616d00001e02c80fe27586c2da910984cb9a",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02427c80da235cb76fc89b8e27ab67616d00001e026161c2f7f66cb9b9f99bc0e3ab67616d00001e026e415c25972cc9c91dd1034cab67616d00001e02c80fe27586c2da910984cb9a",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02427c80da235cb76fc89b8e27ab67616d00001e026161c2f7f66cb9b9f99bc0e3ab67616d00001e026e415c25972cc9c91dd1034cab67616d00001e02c80fe27586c2da910984cb9a",
+                    "width": 60
+                }
+            ],
+            "name": "Hypecore",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAACc7keeOY25EQ0enADqV9MpveXBL9",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4ugaZ1aThniWD9e9XKMusl/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4ugaZ1aThniWD9e9XKMusl"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7oBS36VB5KpCO1ItOcEft5"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7oBS36VB5KpCO1ItOcEft5",
+            "id": "7oBS36VB5KpCO1ItOcEft5",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e025e223891716877338128b97bab67616d00001e027d384516b23347e92a587ed1ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02ce159a3ba2096e13fa9d4b4c",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e025e223891716877338128b97bab67616d00001e027d384516b23347e92a587ed1ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02ce159a3ba2096e13fa9d4b4c",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e025e223891716877338128b97bab67616d00001e027d384516b23347e92a587ed1ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02ce159a3ba2096e13fa9d4b4c",
+                    "width": 60
+                }
+            ],
+            "name": "Chill",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAL5TTUsgSFF1I3ZGntk/rhib5lewt",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7oBS36VB5KpCO1ItOcEft5/tracks",
+                "total": 45
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7oBS36VB5KpCO1ItOcEft5"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/73sFmWsm5XmFH5eAbVFB8s"
+            },
+            "href": "https://api.spotify.com/v1/playlists/73sFmWsm5XmFH5eAbVFB8s",
+            "id": "73sFmWsm5XmFH5eAbVFB8s",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02072e9faef2ef7b6db63834a3ab67616d00001e02644c510e8d4c02ae69028297ab67616d00001e027d384516b23347e92a587ed1ab67616d00001e02881d8d8378cd01099babcd44",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02072e9faef2ef7b6db63834a3ab67616d00001e02644c510e8d4c02ae69028297ab67616d00001e027d384516b23347e92a587ed1ab67616d00001e02881d8d8378cd01099babcd44",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02072e9faef2ef7b6db63834a3ab67616d00001e02644c510e8d4c02ae69028297ab67616d00001e027d384516b23347e92a587ed1ab67616d00001e02881d8d8378cd01099babcd44",
+                    "width": 60
+                }
+            ],
+            "name": "Hostile",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAJrHPbf0Cdi2SjIRfpYxhSsHJgkR9",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/73sFmWsm5XmFH5eAbVFB8s/tracks",
+                "total": 36
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:73sFmWsm5XmFH5eAbVFB8s"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0fnYNg9zNoLEfJVU9f43GB"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0fnYNg9zNoLEfJVU9f43GB",
+            "id": "0fnYNg9zNoLEfJVU9f43GB",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e02274b406a7e18acebcf743079ab67616d00001e02601eb33454f13f26db9084e4ab67616d00001e026cfa297b0178fd91dca5c4f1ab67616d00001e028863bc11d2aa12b54f5aeb36",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e02274b406a7e18acebcf743079ab67616d00001e02601eb33454f13f26db9084e4ab67616d00001e026cfa297b0178fd91dca5c4f1ab67616d00001e028863bc11d2aa12b54f5aeb36",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e02274b406a7e18acebcf743079ab67616d00001e02601eb33454f13f26db9084e4ab67616d00001e026cfa297b0178fd91dca5c4f1ab67616d00001e028863bc11d2aa12b54f5aeb36",
+                    "width": 60
+                }
+            ],
+            "name": "Complacent",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAsyCePjkGXhPsLXKFeQ9nH9ba9mIR",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0fnYNg9zNoLEfJVU9f43GB/tracks",
+                "total": 161
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0fnYNg9zNoLEfJVU9f43GB"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4R7FuCyYZWQVZYDdhq59tO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4R7FuCyYZWQVZYDdhq59tO",
+            "id": "4R7FuCyYZWQVZYDdhq59tO",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e0202854a7060fccc1a66a4b5adab67616d00001e0204791a385c035c1642c80b8fab67616d00001e025af0305457ff290e06dcc4c2ab67616d00001e02935d8d5369bc55e74a39303e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e0202854a7060fccc1a66a4b5adab67616d00001e0204791a385c035c1642c80b8fab67616d00001e025af0305457ff290e06dcc4c2ab67616d00001e02935d8d5369bc55e74a39303e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e0202854a7060fccc1a66a4b5adab67616d00001e0204791a385c035c1642c80b8fab67616d00001e025af0305457ff290e06dcc4c2ab67616d00001e02935d8d5369bc55e74a39303e",
+                    "width": 60
+                }
+            ],
+            "name": "Go Hard 3.0",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAA+eBFtfbj+rCBzRvt837kEkCOdSBv",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4R7FuCyYZWQVZYDdhq59tO/tracks",
+                "total": 235
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4R7FuCyYZWQVZYDdhq59tO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6MUGtULvPpMqvmEeKC0QNz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6MUGtULvPpMqvmEeKC0QNz",
+            "id": "6MUGtULvPpMqvmEeKC0QNz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e025e223891716877338128b97bab67616d00001e027d384516b23347e92a587ed1ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02ef127bd7ae6f592ee7bc4db5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e025e223891716877338128b97bab67616d00001e027d384516b23347e92a587ed1ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02ef127bd7ae6f592ee7bc4db5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e025e223891716877338128b97bab67616d00001e027d384516b23347e92a587ed1ab67616d00001e028b27d35aa2c6dcf99895d664ab67616d00001e02ef127bd7ae6f592ee7bc4db5",
+                    "width": 60
+                }
+            ],
+            "name": "Synopsis",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAABj/KsiQTJXdjDf5nMNEJzqlmyH32Y",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6MUGtULvPpMqvmEeKC0QNz/tracks",
+                "total": 88
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6MUGtULvPpMqvmEeKC0QNz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4FIXHGvLzdnBFEBcxvs2B1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4FIXHGvLzdnBFEBcxvs2B1",
+            "id": "4FIXHGvLzdnBFEBcxvs2B1",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da848aa4bd4f053346358267ee3b",
+                    "width": null
+                }
+            ],
+            "name": "Unforgettable",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAACAsRjbcCA1CWF0tI9+ROg5Ffl8hsu",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4FIXHGvLzdnBFEBcxvs2B1/tracks",
+                "total": 492
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4FIXHGvLzdnBFEBcxvs2B1"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/02DD8OFjVFvwtunDE7SUkz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/02DD8OFjVFvwtunDE7SUkz",
+            "id": "02DD8OFjVFvwtunDE7SUkz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e021f9edf15e43f4c2f4938b869ab67616d00001e024121faee8df82c526cbab2beab67616d00001e02a69f71a8794e2d867a52f98f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e021f9edf15e43f4c2f4938b869ab67616d00001e024121faee8df82c526cbab2beab67616d00001e02a69f71a8794e2d867a52f98f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d00001e020b51f8d91f3a21e8426361aeab67616d00001e021f9edf15e43f4c2f4938b869ab67616d00001e024121faee8df82c526cbab2beab67616d00001e02a69f71a8794e2d867a52f98f",
+                    "width": 60
+                }
+            ],
+            "name": "Strings",
+            "owner": {
+                "display_name": "姚凯 Khi",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/khi.kidman"
+                },
+                "href": "https://api.spotify.com/v1/users/khi.kidman",
+                "id": "khi.kidman",
+                "type": "user",
+                "uri": "spotify:user:khi.kidman"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "AAAAeDk00t70B2HQWcLOAv8f8b4VsCzi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/02DD8OFjVFvwtunDE7SUkz/tracks",
+                "total": 111
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:02DD8OFjVFvwtunDE7SUkz"
+        }
+    ]
+}
